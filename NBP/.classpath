@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_201">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.glassfish.tools.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/fscontext.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/gf-client.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/imqbroker.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/imqjmsbridge.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/imqjmsra.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/imqjmx.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/imqstomp.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javaee.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.jms-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
